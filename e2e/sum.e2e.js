@@ -1,5 +1,5 @@
-describe('suite',()=>{
-  test('test', ()=>{
-    expect(1+1).toBe(2);
+describe('suite tests', () => {
+  test('test', () => {
+    expect(1 + 1).toBe(2);
   })
-})
+});
